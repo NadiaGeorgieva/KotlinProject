@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BeautyApp</string>
+    <string name="notes">Notes</string>
+    <string name="create_a_note">Create a note</string>
+    <string name="notes_help_us_every_day_write_your_first_note">Notes help us every day ,write your first note ...</string>
+    <string name="description">Description</string>
+    <string name="add_note">Add note</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="home">Home</string>
+    <string name="gallery">Gallery</string>
+    <string name="my_notes">My notes</string>
+    <string name="about">About</string>
+    <string name="beauty_app">Beauty App</string>
+    <string name="home_gallery_notes_contacts">Home Gallery Notes Contacts</string>
+    <string name="notes_gallery_designer">Notes Gallery Designer</string>
+
+
+</resources>
